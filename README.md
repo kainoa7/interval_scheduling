@@ -37,5 +37,8 @@ To use this implementation of the interval scheduling algorithm, follow these st
 
 ## Example
 
-Suppose we have the following jobs:
+Example inputs: jobs = [(1, 3), (2, 5), (3, 6), (6, 8), (7, 10)]
+- First number represents start time and second number represents finish time
+- Finds maximum subset of mutually compatible jobs.
+  
 
