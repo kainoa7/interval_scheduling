@@ -35,6 +35,9 @@ To use this implementation of the interval scheduling algorithm, follow these st
 
 6. The script will output the selected jobs, i.e., the maximum number of non-overlapping intervals that can be scheduled.
 
+## Requirements
+Python 3.x
+
 ## Example
 
 Example inputs: jobs = [(1, 3), (2, 5), (3, 6), (6, 8), (7, 10)]
