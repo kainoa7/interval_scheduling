@@ -40,5 +40,7 @@ To use this implementation of the interval scheduling algorithm, follow these st
 Example inputs: jobs = [(1, 3), (2, 5), (3, 6), (6, 8), (7, 10)]
 - First number represents start time and second number represents finish time
 - Finds maximum subset of mutually compatible jobs.
-  
+
+＜img src="https://github.com/kainoa7/interval_scheduling/assets/97155994/dd272826-7b08-41b5-8dc9-7123611ad373" width="500" height="300"＞
+
 
